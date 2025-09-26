@@ -1,0 +1,902 @@
+[
+  {
+    "question": "Where did I place the orange juice after breakfast two days ago?",
+    "category": "past",
+    "question_id": "hbt_92_1",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "On the kitchen counter",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "Where did I leave my red backpack last night?",
+    "category": "past",
+    "question_id": "hbt_92_2",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "On the sofa downstairs OR sofa living room downstairs",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "What did we drink two days ago for breakfast in the kitchen?",
+    "category": "past",
+    "question_id": "hbt_92_3",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Orange juice",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "Do you remember how many coat hooks are available?",
+    "category": "past",
+    "question_id": "hbt_92_4",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "5",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "Do you remember where we put the feather painting?",
+    "category": "past",
+    "question_id": "hbt_92_5",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Behind the white couch OR To the right of the patio doors OR Upstairs in the living room OR Behind the big white couch upstairs",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "What drink do we have at the kitchen counter now?",
+    "category": "present",
+    "question_id": "hbt_92_6",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Orange juice",
+    "best_path": [282],
+    "start_place": 54
+  },
+  {
+    "question": "Does my backpack is under the coat hanger?",
+    "category": "present",
+    "question_id": "hbt_92_7",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "No it is not under the coat hanger",
+    "best_path": [46],
+    "start_place": 54
+  },
+  {
+    "question": "What is in the basket by the front door upstairs?",
+    "category": "present",
+    "question_id": "hbt_92_8",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Umbrella",
+    "best_path": [202],
+    "start_place": 54
+  },
+  {
+    "question": "Can you show me where I can make coffee?",
+    "category": "present",
+    "question_id": "hbt_92_9",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Coffee machine in the kitchen",
+    "best_path": [281],
+    "start_place": 54
+  },
+  {
+    "question": "What's the color of the flower that we put on the dining table?",
+    "category": "multi_past",
+    "question_id": "hbt_92_10",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "white",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "I want to cook in the kitchen, what can I do to decrease CO2 when cooking?",
+    "category": "present",
+    "question_id": "hbt_92_11",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Range hood",
+    "best_path": [272],
+    "start_place": 54
+  },
+  {
+    "question": "Where can I clean fruit while facing the dining room table?",
+    "category": "present",
+    "question_id": "hbt_92_12",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "The kitchen island",
+    "best_path": [272],
+    "start_place": 54
+  },
+  {
+    "question": "Where can I practice stair push ups?",
+    "category": "present",
+    "question_id": "hbt_92_13",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "stairs",
+    "best_path": [46],
+    "start_place": 54
+  },
+  {
+    "question": "When did the package on the front door upstairs be delivered?",
+    "category": "multi_past",
+    "question_id": "hbt_92_14",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Thursday afternoon",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "What’s the family's favorite drink in the morning for breakfast?",
+    "category": "multi_past",
+    "question_id": "hbt_92_15",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Orange juice",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "How long has the package been near the front door?",
+    "category": "multi_past",
+    "question_id": "hbt_92_16",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "2 days",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "Where do I usually store my backpack in the afternoon?",
+    "category": "multi_past",
+    "question_id": "hbt_92_17",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "At or by the coat hanger",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "What’s the weather like by looking out the window for the past few days?",
+    "category": "multi_past",
+    "question_id": "hbt_92_18",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Snowy OR Cold",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "Can you help me find my backpack? Where is it?",
+    "category": "past_present",
+    "question_id": "hbt_92_19",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "It’s on the sofa OR living room downstairs",
+    "best_path": [0],
+    "start_place": 54
+  },
+  {
+    "question": "Do you know where my red backpack is? I forget where I left it last night",
+    "category": "past_present",
+    "question_id": "hbt_92_20",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "On the sofa in the living room downstairs!",
+    "best_path": [0],
+    "start_place": 54
+  },
+  {
+    "question": "Can you check if the package that arrived on Thursday afternoon is still located at the same place?",
+    "category": "past_present",
+    "question_id": "hbt_92_21",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Yes",
+    "best_path": [202],
+    "start_place": 54
+  },
+  {
+    "question": "Has someone already opened the package that was being delivered?",
+    "category": "past_present",
+    "question_id": "hbt_92_22",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "No",
+    "best_path": [202],
+    "start_place": 54
+  },
+  {
+    "question": "Did we have the same drink for breakfast today like a few days ago?",
+    "category": "past_present",
+    "question_id": "hbt_92_23",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Yes",
+    "best_path": [281],
+    "start_place": 54
+  },
+  {
+    "question": "What happens if I leave the drink on the kitchen island for a few days? Can I still drink it after 3 days?",
+    "category": "past_present_future",
+    "question_id": "hbt_92_24",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "The orange juice will be spoiled OR it might get spoiled",
+    "best_path": [281],
+    "start_place": 54
+  },
+  {
+    "question": "What kind of drink should by for breakfast? Recall what we usually drink in the morning.",
+    "category": "past_present_future",
+    "question_id": "hbt_92_25",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Orange juice",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "Where’s a good place to store my backpack if I want to keep it near where I keep my jacket?",
+    "category": "past_present_future",
+    "question_id": "hbt_92_26",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "By OR Near OR AT the coat hanger OR under the coat hanger",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "Based on the drinks we usually have for breakfast in our kitchen in the morning, which one are we most likely to run out of soon and therefore need to purchase again?",
+    "category": "past_present_future",
+    "question_id": "hbt_92_27",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Orange juice",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "The new roommate asked me where he should leave the package that just arrived, where do we usually leave the delivered package and where should he leave it?",
+    "category": "past_present_future",
+    "question_id": "hbt_92_28",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "By the front door upstairs",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "Do you remember what material is the stool base in the kitchen?",
+    "category": "past",
+    "question_id": "hbt_92_29",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "metal",
+    "best_path": [],
+    "start_place": 54
+  },
+  {
+    "question": "Do you think we can fit a large pizza on the table next to the downstairs couch?",
+    "category": "present",
+    "question_id": "hbt_92_30",
+    "scene_name": "092-hm3d-eF36g7L6Z9M",
+    "answer": "Yes",
+    "best_path": [0],
+    "start_place": 54
+  },
+  {
+    "question": "Where was the duck toy found after the kids finished playing yesterday?",
+    "category": "past",
+    "question_id": "hbt_84_1",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Stairs.",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Where was the water bottle after the study session ended on Tuesday?",
+    "category": "past",
+    "question_id": "hbt_84_2",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On a desk in the Study Room.",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Where was the apple placed after the meal in the dining room?",
+    "category": "past",
+    "question_id": "hbt_84_3",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On the table in the Dining Room.",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Where did the kids leave toys on the stairways previously yesterday?",
+    "category": "past",
+    "question_id": "hbt_84_4",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Tucked along the steps in the Stairways.",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Where was the water bottle usually placed after a work session early in the week?",
+    "category": "past",
+    "question_id": "hbt_84_5",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On a desk in the Study Room.",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Where was the water bottle after the study session ended on Tuesday?",
+    "category": "past",
+    "question_id": "hbt_84_6",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On a desk in the Study Room.",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "What fruit did we eat yesterday while studying?",
+    "category": "past",
+    "question_id": "hbt_84_7",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Apple",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "What fruit did we eat on Thursday while studying?",
+    "category": "past",
+    "question_id": "hbt_84_8",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Apple",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Do you remember what fruit was placed on the dining table on Monday?",
+    "category": "past",
+    "question_id": "hbt_84_9",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Apple",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "What color was the water bottle that was left in the study room on Monday?",
+    "category": "past",
+    "question_id": "hbt_84_10",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "White OR yellow-ish",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Where is the water bottle currently in the study room?",
+    "category": "present",
+    "question_id": "hbt_84_11",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On a desk in the Study Room.",
+    "best_path": [278],
+    "start_place": 117
+  },
+  {
+    "question": "Where is the duck toys?",
+    "category": "present",
+    "question_id": "hbt_84_12",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On the floor near the sofa in the Upstairs Living Room.",
+    "best_path": [8],
+    "start_place": 117
+  },
+  {
+    "question": "What toys laying on the floor upstairs?",
+    "category": "present",
+    "question_id": "hbt_84_13",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Yellow duck",
+    "best_path": [8],
+    "start_place": 117
+  },
+  {
+    "question": "Is the apple currently on the dining table?",
+    "category": "present",
+    "question_id": "hbt_84_14",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Yes, on the table in the Dining Room.",
+    "best_path": [103],
+    "start_place": 117
+  },
+  {
+    "question": "Does the WC lid open?",
+    "category": "present",
+    "question_id": "hbt_84_15",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "It is closed",
+    "best_path": [103],
+    "start_place": 117
+  },
+  {
+    "question": "Is the TV turned on in the living room downstairs?",
+    "category": "present",
+    "question_id": "hbt_84_16",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "No, it’s off",
+    "best_path": [218],
+    "start_place": 117
+  },
+  {
+    "question": "What room do we keep a collage of travel photos on the wall?",
+    "category": "present",
+    "question_id": "hbt_84_17",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "In the study room",
+    "best_path": [285],
+    "start_place": 117
+  },
+  {
+    "question": "Where have the yellow duck toys ended up on Thursday, Wednesday, Thursday before?",
+    "category": "multi_past",
+    "question_id": "hbt_84_18",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Tucked along the steps in the Stairways and on the living room upstairs",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "On different occasions, where did kids leave the yellow duck toys in the living room on Monday, Wednesday?",
+    "category": "multi_past",
+    "question_id": "hbt_84_19",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On the floor near the sofa in the Upstairs Living Room",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Over study sessions, yesterday where did the water bottle be found?",
+    "category": "multi_past",
+    "question_id": "hbt_84_20",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On a desk in the Study Room",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Across multiple meals earlier this week, where has the apple been placed in the dining room?",
+    "category": "multi_past",
+    "question_id": "hbt_84_21",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On the table in the Dining Room",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "When did we put water bottle on the study room?",
+    "category": "multi_past",
+    "question_id": "hbt_84_22",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Wednesday we start seeing water bottle in the dining room",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Can you help me, where is the yellow duck toy now?",
+    "category": "past_present",
+    "question_id": "hbt_84_23",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On the floor in the Upstairs Living Room.",
+    "best_path": [9],
+    "start_place": 117
+  },
+  {
+    "question": "Please help me find my water bottle, where it is which room?",
+    "category": "past_present",
+    "question_id": "hbt_84_24",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "After studying: on a desk in the Study Room; Now: still on a desk in the Study Room.",
+    "best_path": [285],
+    "start_place": 117
+  },
+  {
+    "question": "I'm looking for some fruits to eat, do you see any apple I can eat?",
+    "category": "past_present",
+    "question_id": "hbt_84_25",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Yes, apple in the study room",
+    "best_path": [285],
+    "start_place": 117
+  },
+  {
+    "question": "Have the duck toys moved from the stairways since yesterday?",
+    "category": "past_present",
+    "question_id": "hbt_84_26",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Yes, it’s on the living room now",
+    "best_path": [9],
+    "start_place": 117
+  },
+  {
+    "question": "Has the water bottle remained on the study desk since the last session?",
+    "category": "past_present",
+    "question_id": "hbt_84_27",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Yes, it has remained on the desk in the Study Room.",
+    "best_path": [285],
+    "start_place": 117
+  },
+  {
+    "question": "Where do the kids like to play with duck toys on the second floor?",
+    "category": "past_present_future",
+    "question_id": "hbt_84_28",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Past: living room upstairs",
+    "best_path": [9],
+    "start_place": 117
+  },
+  {
+    "question": "Where should we put the water bottle to keep hydrated while studying?",
+    "category": "past_present_future",
+    "question_id": "hbt_84_29",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "After studying: on a desk",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Based on the family routine, where should we put the apple so everyone can easily find it?",
+    "category": "past_present_future",
+    "question_id": "hbt_84_30",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Dining room",
+    "best_path": [285],
+    "start_place": 117
+  },
+  {
+    "question": "Among the place that the kid like to play with the duck toy, which area is safer to play at?",
+    "category": "past_present_future",
+    "question_id": "hbt_84_31",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Living room upstairs is safer than stair",
+    "best_path": [9],
+    "start_place": 117
+  },
+  {
+    "question": "Where should we put the apple to make sure we are not hungry while working?",
+    "category": "past_present_future",
+    "question_id": "hbt_84_32",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "on the study desk",
+    "best_path": [],
+    "start_place": 117
+  },
+  {
+    "question": "Looking at the decor in the chimney living room, what kind of celebration the family is preparing?",
+    "category": "past_present_future",
+    "question_id": "hbt_84_33",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Anything related to Fall season celebrations",
+    "best_path": [181],
+    "start_place": 117
+  },
+  {
+    "question": "What is the object inside the pet cage?",
+    "category": "present",
+    "question_id": "hbt_84_34",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "A teddy bear",
+    "best_path": [163],
+    "start_place": 117
+  },
+  {
+    "question": "Which color is the dining table?",
+    "category": "present",
+    "question_id": "hbt_84_35",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Brown",
+    "best_path": [105],
+    "start_place": 117
+  },
+  {
+    "question": "Which color is the wall behind the desk with the computer?",
+    "category": "present",
+    "question_id": "hbt_84_36",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Blue",
+    "best_path": [285],
+    "start_place": 117
+  },
+  {
+    "question": "There's something on the wall between the pet cage and the chimney, what is it?",
+    "category": "present",
+    "question_id": "hbt_84_37",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "A window OR a home sign",
+    "best_path": [163],
+    "start_place": 117
+  },
+  {
+    "question": "Is the light on the staircase on or off?",
+    "category": "present",
+    "question_id": "hbt_84_38",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "On",
+    "best_path": [59],
+    "start_place": 117
+  },
+  {
+    "question": "Is there a place where I can leave my pet? If so where is it?",
+    "category": "present",
+    "question_id": "hbt_84_39",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Yes, a pet cage in the living room",
+    "best_path": [163],
+    "start_place": 117
+  },
+  {
+    "question": "Is there a room to work? If so which room is it?",
+    "category": "present",
+    "question_id": "hbt_84_40",
+    "scene_name": "084-hm3d-zt1RVoi7PcG",
+    "answer": "Yes, study room or work room",
+    "best_path": [285],
+    "start_place": 117
+  },
+  {
+    "question": "Which aisle was the forklift parked in the warehouse yesterday?",
+    "category": "past",
+    "question_id": "isc_w001",
+    "scene_name": "isaac_warehouse",
+    "answer": "Aisle 6 OR Aisle with a box P-R sign",
+    "best_path": [45],
+    "start_place": 0
+  },
+  {
+    "question": "Were aisle 5 free of clutter on Tuesday?",
+    "category": "past",
+    "question_id": "isc_w002",
+    "scene_name": "isaac_warehouse",
+    "answer": "No, Aisle 5 floor was cluttered",
+    "best_path": [],
+    "start_place": 0
+  },
+  {
+    "question": "Were there any workers in the warehouse on Monday?",
+    "category": "past",
+    "question_id": "isc_w003",
+    "scene_name": "isaac_warehouse",
+    "answer": "Yes there were OR Yes, there were workers in Aisle 1,2, and 6",
+    "best_path": [],
+    "start_place": 0
+  },
+  {
+    "question": "Was there any person close to any clutter hazards yesterday?",
+    "category": "past",
+    "question_id": "isc_w004",
+    "scene_name": "isaac_warehouse",
+    "answer": "Yes there is one person close to the clutter hazard on the floor",
+    "best_path": [],
+    "start_place": 0
+  },
+  {
+    "question": "Can you find which aisle the forklift is in?",
+    "category": "present",
+    "question_id": "isc_w005",
+    "scene_name": "isaac_warehouse",
+    "answer": "Aisle 6",
+    "best_path": [45],
+    "start_place": 0
+  },
+  {
+    "question": "How many blue barrels do we have on the shelves in Aisle 2?",
+    "category": "present",
+    "question_id": "isc_w006",
+    "scene_name": "isaac_warehouse",
+    "answer": "7",
+    "best_path": [9, 18, 15, 16, 17, 21, 22],
+    "start_place": 0
+  },
+  {
+    "question": "Have any blue barrels on Aisle 2 been misplaced or incorrectly shelved? Blue barrels must be placed on the bottom shelves.",
+    "category": "present",
+    "question_id": "isc_w007",
+    "scene_name": "isaac_warehouse",
+    "answer": "All blue barrels are on the bottom shelves",
+    "best_path": [9, 18],
+    "start_place": 0
+  },
+  {
+    "question": "Is aisle 1 floor free of clutter?",
+    "category": "present",
+    "question_id": "isc_w008",
+    "scene_name": "isaac_warehouse",
+    "answer": "Yes its free of clutter",
+    "best_path": [36],
+    "start_place": 0
+  },
+  {
+    "question": "How many fragile box are there in Aisle 1?",
+    "category": "present",
+    "question_id": "isc_w009",
+    "scene_name": "isaac_warehouse",
+    "answer": "Four",
+    "best_path": [0, 5, 10, 15],
+    "start_place": 0
+  },
+  {
+    "question": "Can you check if any orange barrels have been taken since yesterday?",
+    "category": "past_present",
+    "question_id": "isc_w010",
+    "scene_name": "isaac_warehouse",
+    "answer": "Yes OR Yes, one orange barrel is removed since yesterday",
+    "best_path": [20],
+    "start_place": 0
+  },
+  {
+    "question": "Can you check if the clutter on the floor has been partially cleaned up since yesterday?",
+    "category": "past_present",
+    "question_id": "isc_w011",
+    "scene_name": "isaac_warehouse",
+    "answer": "Yes OR Yes, some clutter has been removed today",
+    "best_path": [36],
+    "start_place": 0
+  },
+  {
+    "question": "Did the the forklift moved within between Monday to Wednesday?",
+    "category": "multi_past",
+    "question_id": "isc_w012",
+    "scene_name": "isaac_warehouse",
+    "answer": "Yes OR Yes, the forklift has moved on Wednesday",
+    "best_path": [],
+    "start_place": 0
+  },
+  {
+    "question": "Where do we usually place blue barrels? Bottom shelf or top shelf?",
+    "category": "multi_past",
+    "question_id": "isc_w013",
+    "scene_name": "isaac_warehouse",
+    "answer": "Bottom shelf",
+    "best_path": [9],
+    "start_place": 0
+  },
+  {
+    "question": "Which aisle had clutter on the floor among between Monday to Wednesday?",
+    "category": "multi_past",
+    "question_id": "isc_w014",
+    "scene_name": "isaac_warehouse",
+    "answer": "Aisle 5",
+    "best_path": [],
+    "start_place": 0
+  },
+  {
+    "question": "Have any blue barrels been misplaced or incorrectly shelved? Blue barrels must be placed on the bottom shelves.",
+    "category": "multi_past",
+    "question_id": "isc_w015",
+    "scene_name": "isaac_warehouse",
+    "answer": "No",
+    "best_path": [19, 18, 20],
+    "start_place": 0
+  },
+  {
+    "question": "Did the fire extinguisher on Aisle 1 moved between Tuesday and Wednesday?",
+    "category": "multi_past",
+    "question_id": "isc_w016",
+    "scene_name": "isaac_warehouse",
+    "answer": "No it's not moved. It's placed on the same place",
+    "best_path": [],
+    "start_place": 0
+  },
+  {
+    "question": "Where do we usually park the forklift?",
+    "category": "multi_past",
+    "question_id": "isc_w017",
+    "scene_name": "isaac_warehouse",
+    "answer": "Aisle 6",
+    "best_path": [45],
+    "start_place": 0
+  },
+  {
+    "question": "Could you check if all workers wearing helmets on Wednesday?",
+    "category": "multi_past",
+    "question_id": "isc_w018",
+    "scene_name": "isaac_warehouse",
+    "answer": "No OR No, a worker was not wearing a helmet OR a worker was not wearing a helmet in Aisle 3 on Wednesday",
+    "best_path": [],
+    "start_place": 0
+  },
+  {
+    "question": "We want to recruit more workers in the warehouse. Which day we don't have workes should we assign them?",
+    "category": "past_present_future",
+    "question_id": "isc_w019",
+    "scene_name": "isaac_warehouse",
+    "answer": "Tuesday OR Tuesday, there were no workers on Tuesday.",
+    "best_path": [],
+    "start_place": 0
+  },
+  {
+      "question": "Is aisle 2 floor free of clutter?",
+      "category": "present",
+      "question_id": "isc_w020",
+      "scene_name": "isaac_warehouse",
+      "answer": "Yes",
+      "best_path": [12],
+      "start_place": 0
+  },
+  {
+      "question": "What is the color of the cone placed on Aisle 5",
+      "category": "present",
+      "question_id": "isc_w021",
+      "scene_name": "isaac_warehouse",
+      "answer": "Orange and white",
+      "best_path": [36],
+      "start_place": 0
+  },
+  {
+      "question": "What color was the helmet that the worker wear yesterday in Aisle 5?",
+      "category": "past",
+      "question_id": "isc_w022",
+      "scene_name": "isaac_warehouse",
+      "answer": "Yellow",
+      "best_path": [],
+      "start_place": 0
+    },
+    {
+      "question": "What color was the vest that the worker wear yesterday in Aisle 5?",
+      "category": "past",
+      "question_id": "isc_w023",
+      "scene_name": "isaac_warehouse",
+      "answer": "Yellow",
+      "best_path": [],
+      "start_place": 0
+    },
+    {
+      "question": "How many seat the forklift have in Aisle 6 that you see yesterday?",
+      "category": "past",
+      "question_id": "isc_w024",
+      "scene_name": "isaac_warehouse",
+      "answer": "One",
+      "best_path": [],
+      "start_place": 0
+    },
+    {
+      "question": "The worker with white helmet and shirt came to the warehouse every week on the same day. When do you think he will come to the warehouse next week?",
+      "category": "past_present_future",
+      "question_id": "isc_w025",
+      "scene_name": "isaac_warehouse",
+      "answer": "Monday",
+      "best_path": [4],
+      "start_place": 0
+    },
+    {
+      "question": "We want to bring this toolbox next to the forklift, which aisle we should leave this?",
+      "category": "past_present_future",
+      "question_id": "isc_w026",
+      "scene_name": "isaac_warehouse",
+      "answer": "Aisle 6",
+      "best_path": [45],
+      "start_place": 0
+    },
+    {
+      "question": "We want to store this item close to a fire extinguisher, which aisle we should leave this?",
+      "category": "past_present_future",
+      "question_id": "isc_w027",
+      "scene_name": "isaac_warehouse",
+      "answer": "Aisle 1 OR Aisle 3 OR Aisle 5",
+      "best_path": [],
+      "start_place": 0
+    },
+    {
+      "question": "Can you check which Aisle between 3 or 4 where we have Fire Extinguisher?",
+      "category": "past_present",
+      "question_id": "isc_w028",
+      "scene_name": "isaac_warehouse",
+      "answer": "Aisle 3",
+      "best_path": [18],
+      "start_place": 0
+    },
+    {
+      "question": "Go check where the whether the forklift is in Aisle 6  or Aisle 3",
+      "category": "past_present",
+      "question_id": "isc_w029",
+      "scene_name": "isaac_warehouse",
+      "answer": "Yes it's Aisle 6 as usual",
+      "best_path": [45],
+      "start_place": 0
+    },
+    {
+      "question": "I want to store this barrel, probably next to other blue barrels, which aisle should I put this?",
+      "category": "past_present_future",
+      "question_id": "isc_w030",
+      "scene_name": "isaac_warehouse",
+      "answer": "Aisle 2 OR Aisle 3",
+      "best_path": [17],
+      "start_place": 0
+    }
+]

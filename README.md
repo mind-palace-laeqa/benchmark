@@ -9,6 +9,15 @@ As robots become increasingly capable of operating over extended periods—spann
 
 To address this, we propose a structured memory system for robots, inspired by the mind palace method from cognitive science. Our method encodes episodic experiences as scene-graph-based world instances, forming a reasoning and planning algorithm that enables targeted memory retrieval and guided navigation. To balance the exploration-recall trade-off, we introduce value-of-information-based stopping criteria that determine when the agent has gathered sufficient information. We evaluate our method on real-world experiments and introduce a new benchmark that spans popular simulation environments and actual industrial sites. Our approach significantly outperforms state-of-the-art baselines, yielding substantial gains in both answer accuracy and exploration efficiency.
 
+## Long-term Active EQA Benchmark
+We generate the Long-term Active EQA Benchmark to test agents' understanding of the environment and the changes of the environment in long-term setting across multiple days and months.
+
+We release the LA-EQA question list and the scene files:
+1. List of questions: eqa_questions.json
+2. Scene files: link (6 GB)
+
+
+
 
 ## Citing Mind Palace Exploration and LA-EQA Benchmark
 
